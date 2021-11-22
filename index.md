@@ -5,7 +5,7 @@
 ### [Tests](https://github.com/Compiler-Construction-Uni-Freiburg/compiler-tests)
 Contains the tests your code is tested against.
 
-## Files and repositories for the assignments
+## Files
 
 ### Exercise Sheets:
 - [Assignment 2](pdfs/assignment-2.pdf)
