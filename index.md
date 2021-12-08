@@ -10,6 +10,7 @@ Contains the tests your code is tested against.
 ### Exercise Sheets:
 - [Assignment 2](pdfs/assignment-2.pdf)
 - [Assignment 3](pdfs/assignment-3.pdf)
+- [Assignment 4](pdfs/assignment-4.pdf)
 
 ### Exercise Slides:
 - [Assignment 1](slides/assignment-1.pdf)
