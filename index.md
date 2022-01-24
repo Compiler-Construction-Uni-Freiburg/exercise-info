@@ -12,6 +12,7 @@ Contains the tests your code is tested against.
 - [Assignment 3](pdfs/assignment-3.pdf)
 - [Assignment 4](pdfs/assignment-4.pdf)
 - [Assignment 5](pdfs/assignment-5.pdf)
+- [Assignment 6](pdfs/assignment-6.pdf)
 
 ### Exercise Slides:
 - [Assignment 1](slides/assignment-1.pdf)
