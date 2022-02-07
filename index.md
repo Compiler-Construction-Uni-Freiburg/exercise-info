@@ -27,3 +27,4 @@ Contains the tests your code is tested against.
 - [Assignment 3](solutions/assignment-3-solution.zip)
 - [Assignment 4](solutions/assignment-4-solution.zip)
 - [Assignment 5](solutions/assignment-5-solution.zip)
+- [Assignment 6](solutions/assignment-6-solution.zip)
