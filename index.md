@@ -20,6 +20,7 @@ Contains the tests your code is tested against.
 - [Assignment 3](slides/assignment-3.pdf)
 - [Assignment 4](slides/assignment-4.pdf)
 - [Assignment 5](slides/assignment-5.pdf)
+- [Assignment 6](slides/assignment-6.pdf)
 
 ### Exercise Solutions:
 - [Assignment 1](solutions/assignment-1-solution.zip)
